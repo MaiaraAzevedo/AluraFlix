@@ -1,0 +1,40 @@
+[
+  {
+    "id:": 1,
+    "titulo": "Guia de carreira Front-end",
+    "descricao": "Nesse episódio, confira o que é front-end e como seguir nessa área da tecnologia, através do Tech Guide front-end, um Guia de Estudos do iniciante ao avançado.",
+    "imagem": "https://i.ytimg.com/vi/fpth65ts3cw/hqdefault.jpg",
+    "link": "https://www.youtube.com/embed/fpth65ts3cw",
+    "categoria": "FRONT END",
+    "cor": "#6BD1FF"
+  },
+  {
+    "id": 2,
+    "titulo": "Como testar seu Front-end? com Mario Souto",
+    "descricao": "Por onde começar a testar as habilidades em Front-end? Se você tem dúvidas na hora de testar softwares e colocar em prática técnicas modernas, esse vídeo vai te ajudar.",
+    "imagem": "https://i.ytimg.com/vi/CaTbfdsVydE/hqdefault.jpg",
+    "link": "https://www.youtube.com/embed/CaTbfdsVydE",
+    "categoria": "FRONT END",
+    "cor": "#6BD1FF"
+  },
+  {
+    "id": 3,
+    "titulo": "Métricas para o Front End com Mario Souto",
+    "descricao": "Neste vídeo o Paulo Silveira e o @DevSoutinho batem um papo sobre as métricas que não podem ser esquecidas em um bom site.",
+    "imagem": "https://i.ytimg.com/vi/iVNR-6v8lZU/maxresdefault.jpg",
+    "link": "https://www.youtube.com/embed/iVNR-6v8lZU",
+    "categoria": "FRONT END",
+    "cor": "#6BD1FF"
+    
+  },
+  {
+    "id": 4,
+    "titulo": "Como Estudar PROGRAMAÇÃO | Guia Back-End",
+    "descricao": "Quer ser um desenvolvedor back-end? Hoje vamos falar um pouco sobre o que é necessário estudar para você se tornar um programador back-end.",
+    "imagem": "https://i.ytimg.com/vi/LbKDxQ0jX90/maxresdefault.jpg",
+    "link": "https://www.youtube.com/embed/LbKDxQ0jX90",
+    "categoria": "BACK END",
+    "cor": "#00C86F"
+    
+  }
+]

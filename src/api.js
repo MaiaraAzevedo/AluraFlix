@@ -1,0 +1,1 @@
+export const api = 'https://6695a4400312447373bfae14.mockapi.io/api/v1/videos'
